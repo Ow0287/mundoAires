@@ -4,7 +4,7 @@
 title = Mundo Aires
 
 # (str) Package name
-package.name = myapp
+package.name = mundoAires
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
